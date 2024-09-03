@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748559923346",
+    "project_id": "discipulai-app",
+    "storage_bucket": "discipulai-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748559923346:android:7d8758bbc64ea28143ce4b",
+        "android_client_info": {
+          "package_name": "com.example.discipulai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqL2FyXASXnhSqIa8LBanO1H7I0tLm4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
